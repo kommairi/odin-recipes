@@ -13,5 +13,5 @@ This repository contains a collection of delicious recipes.
 ## Usage
 
 - Each recipe is contained in its own HTML file.
-- Open the HTML files in a web browser to view the recipes.
+- Click Here [https://kommairi.github.io/odin-recipes/] to view the recipes!
 - Enjoy cooking and eating these tasty dishes!
